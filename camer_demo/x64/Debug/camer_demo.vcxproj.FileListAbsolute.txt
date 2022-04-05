@@ -1,0 +1,2 @@
+C:\Users\HUINAIZUI\Desktop\HUST_COURSE\模式识别与图像处理综合实验\camer_demo\x64\Debug\camer_demo.exe
+D:\HUST_COURSE\模式识别与图像处理综合实验\camer_demo\x64\Debug\camer_demo.exe

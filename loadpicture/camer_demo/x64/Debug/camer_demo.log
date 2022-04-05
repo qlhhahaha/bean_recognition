@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(camer_demo.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  camer_demoDlg.cpp
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(305,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(305,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(319,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(319,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(467,17): warning C4101: “lp_grey_dst”: 未引用的局部变量
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1115,40): warning C4305: “初始化”: 从“double”到“float”截断
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1157,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1156,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1155,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1154,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1153,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1152,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1151,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1150,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1186,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1185,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1184,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1183,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1182,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1181,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1180,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\camer_demoDlg.cpp(1179,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  camer_demo.vcxproj -> D:\HUST_COURSE\模式识别与图像处理综合实验\bean_recognition\loadpicture\camer_demo\x64\Debug\loadpicture.exe
